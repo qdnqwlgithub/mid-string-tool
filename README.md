@@ -1,26 +1,36 @@
 ## install
 
-1. 找到mid-string-tool.jar
+### 1. 找到mid-string-tool.jar
+
 ![img.png](img.png)
    
-2. 点击setting
+### 2. 点击setting
+
 ![img_1.png](img_1.png)
+
    
-3. ![img_2.png](img_2.png)
+### 3. ![img_2.png](img_2.png)
+
 
 4. ![img_3.png](img_3.png)
 
 ## how to use
 
-1. 将光标移动到某个单词
+### 1. 将光标移动到某个单词
+
 ![img_4.png](img_4.png)
    
-2. 使用快捷键Ctrl+Shift+s/点击菜单
+### 2. 使用快捷键Ctrl+Shift+s/点击菜单
 
 ![img_5.png](img_5.png)
 
+
 ![img_6.png](img_6.png)
 
+
+## todo
+
+判断选中或者没有选中，从而转换
 
 ## about SelectionModel Api
 
