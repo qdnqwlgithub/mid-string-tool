@@ -22,6 +22,8 @@
    
 ### 2. 使用快捷键Ctrl+Shift+y/点击菜单
 
+![img_7.png](img_7.png)
+
 
 ![img_6.png](img_6.png)
 
