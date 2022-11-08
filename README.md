@@ -20,19 +20,16 @@
 
 ![img_4.png](img_4.png)
    
-### 2. 使用快捷键Ctrl+Shift+s/点击菜单
-
-![img_5.png](img_5.png)
+### 2. 使用快捷键Ctrl+Shift+y/点击菜单
 
 
 ![img_6.png](img_6.png)
-
 
 ## todo
 
 判断选中或者没有选中，从而转换
 
-## about SelectionModel Api
+## about selectionModel api
 
 1. getSelectionStart()  // 返回所选文本范围的文档中的起始偏移量
 2. getSelectionEnd() // 返回所选文本范围的文档中的结尾便宜量

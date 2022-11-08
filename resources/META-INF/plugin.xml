@@ -31,7 +31,7 @@
     <action id="toggleStyle" class="com.mid.stringtool.ToggleStyle" text="toggle style"
             description="underline to hump or hump to underline">
       <add-to-group group-id="EditMenu" anchor="last"/>
-      <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl S"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl Y"/>
     </action>
   </actions>
 
